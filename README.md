@@ -5,8 +5,7 @@ Smart Study Assistant is a mini full-stack web app that turns any study topic in
 ## Demo Video
 Watch the demo video to see the Smart Study Assistant in action:
 
-[📹 Demo Video]
-https://github.com/user-attachments/assets/e7f4978c-be00-46ad-b2f4-70cb58c65c6c
+<video src="https://github.com/user-attachments/assets/e7f4978c-be00-46ad-b2f4-70cb58c65c6c" controls width="600"></video>
 
 ## Hosted URLs
 - https://smart-study-frontend-88qx.vercel.app/
