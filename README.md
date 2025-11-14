@@ -2,6 +2,11 @@
 
 Smart Study Assistant is a mini full-stack web app that turns any study topic into quick summaries, quizzes, and math challenges.
 
+## Demo Video
+Watch the demo video to see the Smart Study Assistant in action:
+
+[📹 Demo Video](https://drive.google.com/file/d/1SYnJy9qifUMuz8BTYzk0oMo0ZZ3ZkQmo/view?usp=drive_link)
+
 ## Hosted URLs
 - https://smart-study-frontend-88qx.vercel.app/
 
@@ -157,9 +162,6 @@ Manual test plan:
 5. Deploy
 
 **Note**: For local development, leave `VITE_API_BASE_URL` empty to use the Vite proxy that forwards `/study` to `http://localhost:3000`.
-
-## Demo Capture (Optional)
-Use a tool like QuickTime or `npx screencast` to record a short walkthrough. Save the `.gif` or `.mp4` in `docs/` and link it here.
 
 ## AI Tooling Disclosure
 Portions of this project were assisted by AI tooling for code generation and documentation. All outputs were reviewed and tested manually.
