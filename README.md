@@ -2,6 +2,9 @@
 
 Smart Study Assistant is a mini full-stack web app that turns any study topic into quick summaries, quizzes, and math challenges.
 
+## Hosted URLs
+- https://smart-study-frontend-88qx.vercel.app/
+
 ## Tech Stack
 - Backend: Node.js, Express, Axios, NodeCache, Jest, Supertest
 - Frontend: React (Vite), Fetch API, PropTypes, custom CSS
@@ -154,10 +157,6 @@ Manual test plan:
 5. Deploy
 
 **Note**: For local development, leave `VITE_API_BASE_URL` empty to use the Vite proxy that forwards `/study` to `http://localhost:3000`.
-
-## Hosted URLs
-- Backend: https://smart-study-backend-git-main-arvind-kumar214s-projects.vercel.app
-- Frontend: _add once deployed_
 
 ## Demo Capture (Optional)
 Use a tool like QuickTime or `npx screencast` to record a short walkthrough. Save the `.gif` or `.mp4` in `docs/` and link it here.
